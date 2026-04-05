@@ -1,0 +1,138 @@
+{
+  "url": "https://menudoodle.com/",
+  "raw_pages": [
+    {
+      "url": "https://menudoodle.com/",
+      "title": "Menu Doodle | Smart Digital QR Code Menus for Restaurants",
+      "headings": [],
+      "body": "Menu Doodle | Smart Digital QR Code Menus for Restaurants",
+      "links": [],
+      "ctas": []
+    }
+  ],
+  "crawl_error": null,
+  "business_summary": {
+    "business_name": "Menu Doodle",
+    "business_type": "SaaS",
+    "description": "Menu Doodle provides smart digital QR code menu solutions for restaurants. Their platform enables dining establishments to transition from physical menus to interactive, mobile-friendly digital versions.",
+    "offerings": [
+      "Digital QR code menus",
+      "Menu management software"
+    ],
+    "target_audience": [
+      "Restaurant owners",
+      "Cafe managers",
+      "Hospitality businesses"
+    ],
+    "pain_points_solved": [
+      "High cost of printing physical menus",
+      "Difficulty updating menu items and pricing in real-time",
+      "Hygiene concerns related to shared physical menus"
+    ],
+    "key_benefits": [
+      "Easy menu updates",
+      "Improved customer experience",
+      "Cost savings on printing",
+      "Contactless dining"
+    ],
+    "tone": "professional",
+    "missing_info": "Specific pricing tiers, advanced feature set (e.g., ordering/payment integration), and company location."
+  },
+  "topic_candidates": [
+    {
+      "title": "How to Update Your Restaurant Menu in Seconds Without Printing Costs",
+      "search_intent": "How to change menu prices quickly",
+      "target_audience": "Restaurant owners facing rising printing costs",
+      "content_angle": "how-to",
+      "target_landing_page": "/menu-management-software",
+      "primary_keyword": "update restaurant menu online",
+      "score_reason": "Directly addresses the pain point of expensive, recurring printing costs."
+    },
+    {
+      "title": "5 Reasons Why Digital Menus Increase Average Order Value",
+      "search_intent": "Benefits of digital menus for restaurants",
+      "target_audience": "Cafe and restaurant managers looking to boost revenue",
+      "content_angle": "listicle",
+      "target_landing_page": "/digital-qr-code-menus",
+      "primary_keyword": "benefits of digital menus",
+      "score_reason": "Connects the product to a business outcome (revenue) rather than just utility."
+    },
+    {
+      "title": "The Hidden Costs of Physical Menus: A Restaurant Owner\u2019s Guide",
+      "search_intent": "Cost of printing restaurant menus",
+      "target_audience": "Budget-conscious hospitality business owners",
+      "content_angle": "problem-solution",
+      "target_landing_page": "/digital-qr-code-menus",
+      "primary_keyword": "cost of physical menus",
+      "score_reason": "Uses financial data to justify the switch to a SaaS solution."
+    },
+    {
+      "title": "Creating a Contactless Dining Experience: Best Practices for 2024",
+      "search_intent": "How to set up contactless dining",
+      "target_audience": "Restaurant owners concerned with hygiene and modern service",
+      "content_angle": "how-to",
+      "target_landing_page": "/digital-qr-code-menus",
+      "primary_keyword": "contactless dining solutions",
+      "score_reason": "Positions Menu Doodle as an essential tool for modern, safe dining standards."
+    },
+    {
+      "title": "How One Cafe Saved $2,000 a Year by Ditching Paper Menus",
+      "search_intent": "Case study restaurant digital transformation",
+      "target_audience": "Skeptical cafe managers",
+      "content_angle": "case-study",
+      "target_landing_page": "/menu-management-software",
+      "primary_keyword": "digital menu case study",
+      "score_reason": "Provides social proof and tangible ROI to convert hesitant prospects."
+    },
+    {
+      "title": "Why Your QR Code Menu Needs to Be Mobile-Optimized",
+      "search_intent": "Why are my QR code menus hard to read",
+      "target_audience": "Restaurant owners with poor-performing DIY menus",
+      "content_angle": "thought-leadership",
+      "target_landing_page": "/digital-qr-code-menus",
+      "primary_keyword": "mobile-friendly digital menu",
+      "score_reason": "Educates the user on why a professional SaaS solution beats a simple PDF upload."
+    },
+    {
+      "title": "Streamlining Seasonal Menu Changes: A Guide for Busy Kitchen Managers",
+      "search_intent": "How to manage seasonal menu updates",
+      "target_audience": "Kitchen and restaurant managers",
+      "content_angle": "how-to",
+      "target_landing_page": "/menu-management-software",
+      "primary_keyword": "restaurant menu management software",
+      "score_reason": "Targets the operational bottleneck of seasonal menu changes."
+    },
+    {
+      "title": "QR Codes vs. Physical Menus: Which is Better for Customer Experience?",
+      "search_intent": "QR code menu vs physical menu",
+      "target_audience": "Hospitality business owners debating a switch",
+      "content_angle": "problem-solution",
+      "target_landing_page": "/digital-qr-code-menus",
+      "primary_keyword": "QR code menu vs paper menu",
+      "score_reason": "Directly tackles common objections to digital menus."
+    },
+    {
+      "title": "How to Design a Digital Menu That Sells More High-Margin Items",
+      "search_intent": "Digital menu design tips",
+      "target_audience": "Restaurant owners interested in menu engineering",
+      "content_angle": "how-to",
+      "target_landing_page": "/menu-management-software",
+      "primary_keyword": "digital menu design",
+      "score_reason": "Adds value by teaching menu engineering techniques enabled by the software."
+    },
+    {
+      "title": "The Future of Hospitality: Why Digital Menus Are Here to Stay",
+      "search_intent": "Future of restaurant technology",
+      "target_audience": "Forward-thinking restaurant owners",
+      "content_angle": "thought-leadership",
+      "target_landing_page": "/digital-qr-code-menus",
+      "primary_keyword": "future of restaurant menus",
+      "score_reason": "Establishes Menu Doodle as a visionary leader in the restaurant tech space."
+    }
+  ],
+  "approved_topics": null,
+  "rejection_reasons": null,
+  "retry_count": 0,
+  "blog_briefs": null,
+  "final_briefs": null
+}

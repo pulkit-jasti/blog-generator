@@ -1,0 +1,7 @@
+beautifulsoup4==4.14.3
+httpx==0.28.1
+langchain-core==1.2.26
+langchain-google-genai==4.2.1
+langgraph==1.1.6
+pydantic==2.12.5
+python-dotenv==1.2.2

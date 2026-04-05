@@ -1,0 +1,229 @@
+{
+  "url": "https://menudoodle.com/",
+  "raw_pages": [
+    {
+      "url": "https://menudoodle.com/",
+      "title": "Menu Doodle | Smart Digital QR Code Menus for Restaurants",
+      "headings": [],
+      "body": "Menu Doodle | Smart Digital QR Code Menus for Restaurants",
+      "links": [],
+      "ctas": []
+    }
+  ],
+  "crawl_error": null,
+  "business_summary": {
+    "business_name": "Menu Doodle",
+    "business_type": "SaaS",
+    "description": "Menu Doodle provides smart digital QR code menu solutions for restaurants. Their platform enables dining establishments to transition from physical menus to interactive, mobile-friendly digital versions.",
+    "offerings": [
+      "Digital QR code menus",
+      "Menu management software"
+    ],
+    "target_audience": [
+      "Restaurant owners",
+      "Cafe managers",
+      "Hospitality businesses"
+    ],
+    "pain_points_solved": [
+      "High cost of printing physical menus",
+      "Difficulty updating menu items and pricing in real-time",
+      "Hygiene concerns related to shared physical menus"
+    ],
+    "key_benefits": [
+      "Easy menu updates",
+      "Improved customer experience",
+      "Cost savings on printing",
+      "Contactless dining"
+    ],
+    "tone": "professional",
+    "missing_info": "Specific pricing tiers, advanced feature set (e.g., ordering/payment integration), and company location."
+  },
+  "topic_candidates": [
+    {
+      "title": "How to Update Your Restaurant Menu in Seconds: A Guide for Busy Managers",
+      "search_intent": "Informational/How-to",
+      "target_audience": "Restaurant managers and owners",
+      "content_angle": "Efficiency and time-saving workflow",
+      "target_landing_page": "/features/menu-management",
+      "primary_keyword": "digital menu management software",
+      "score_reason": "Directly addresses the pain point of manual menu updates with a clear solution."
+    },
+    {
+      "title": "5 Hidden Costs of Traditional Paper Menus You Can Eliminate Today",
+      "search_intent": "Commercial/Comparison",
+      "target_audience": "Restaurant owners looking to cut overhead",
+      "content_angle": "Cost-benefit analysis",
+      "target_landing_page": "/pricing",
+      "primary_keyword": "save money on restaurant menus",
+      "score_reason": "Strong financial hook that highlights the ROI of switching to digital."
+    },
+    {
+      "title": "Contactless Dining: Why Modern Customers Expect QR Code Menus",
+      "search_intent": "Informational/Trend-based",
+      "target_audience": "Cafe and restaurant owners",
+      "content_angle": "Customer experience and industry standards",
+      "target_landing_page": "/solutions/qr-code-menus",
+      "primary_keyword": "qr code menu benefits",
+      "score_reason": "Positions the product as a necessary modern standard rather than a luxury."
+    },
+    {
+      "title": "From Print to Pixel: A Step-by-Step Guide to Digitizing Your Menu",
+      "search_intent": "Informational/How-to",
+      "target_audience": "Small business owners transitioning to digital",
+      "content_angle": "Onboarding and implementation",
+      "target_landing_page": "/get-started",
+      "primary_keyword": "create digital menu",
+      "score_reason": "Provides a clear, actionable path for prospects to adopt the platform."
+    },
+    {
+      "title": "How Dynamic Pricing Can Increase Your Restaurant's Profit Margins",
+      "search_intent": "Informational/Strategic",
+      "target_audience": "Restaurant owners focused on revenue management",
+      "content_angle": "Revenue optimization",
+      "target_landing_page": "/features/dynamic-pricing",
+      "primary_keyword": "real-time menu pricing",
+      "score_reason": "Connects software capabilities directly to business profitability."
+    },
+    {
+      "title": "Case Study: How The Bistro Reduced Printing Expenses by 70% in One Year",
+      "search_intent": "Commercial/Social Proof",
+      "target_audience": "Cost-conscious restaurant operators",
+      "content_angle": "Evidence-based success story",
+      "target_landing_page": "/case-studies",
+      "primary_keyword": "reduce restaurant printing costs",
+      "score_reason": "Provides tangible ROI data which is highly persuasive for B2B buyers."
+    },
+    {
+      "title": "Hygiene and Hospitality: Why Shared Menus Are Becoming Obsolete",
+      "search_intent": "Informational/Thought-leadership",
+      "target_audience": "Cafe managers and restaurant owners",
+      "content_angle": "Health and safety standards",
+      "target_landing_page": "/solutions/contactless-dining",
+      "primary_keyword": "contactless dining solutions",
+      "score_reason": "Addresses a specific pain point regarding hygiene and customer comfort."
+    },
+    {
+      "title": "7 Features Your Digital Menu Must Have to Drive More Orders",
+      "search_intent": "Informational/Educational",
+      "target_audience": "Tech-forward restaurant owners",
+      "content_angle": "Feature comparison and value proposition",
+      "target_landing_page": "/features",
+      "primary_keyword": "interactive digital menu features",
+      "score_reason": "Educates the user on why interactive menus outperform static PDFs."
+    },
+    {
+      "title": "Troubleshooting Common Issues When Switching to QR Code Menus",
+      "search_intent": "Informational/Problem-solving",
+      "target_audience": "Restaurant owners hesitant to switch",
+      "content_angle": "Overcoming technical objections",
+      "target_landing_page": "/support",
+      "primary_keyword": "qr code menu setup",
+      "score_reason": "Reduces friction for prospects who are worried about the technical transition."
+    },
+    {
+      "title": "How to Design a Digital Menu That Increases Upselling",
+      "search_intent": "Informational/How-to",
+      "target_audience": "Restaurant owners looking to increase average ticket size",
+      "content_angle": "Conversion optimization",
+      "target_landing_page": "/features/upselling-tools",
+      "primary_keyword": "digital menu upselling",
+      "score_reason": "Focuses on the revenue-generating potential of the software."
+    }
+  ],
+  "approved_topics": [
+    {
+      "title": "How to Update Your Restaurant Menu in Seconds: A Guide for Busy Managers",
+      "search_intent": "Informational/How-to",
+      "target_audience": "Restaurant managers and owners",
+      "content_angle": "Efficiency and time-saving workflow",
+      "target_landing_page": "/features/menu-management",
+      "primary_keyword": "digital menu management software",
+      "score_reason": "Directly addresses the pain point of manual menu updates with a clear solution."
+    },
+    {
+      "title": "5 Hidden Costs of Traditional Paper Menus You Can Eliminate Today",
+      "search_intent": "Commercial/Comparison",
+      "target_audience": "Restaurant owners looking to cut overhead",
+      "content_angle": "Cost-benefit analysis",
+      "target_landing_page": "/pricing",
+      "primary_keyword": "save money on restaurant menus",
+      "score_reason": "Strong financial hook that highlights the ROI of switching to digital."
+    },
+    {
+      "title": "Contactless Dining: Why Modern Customers Expect QR Code Menus",
+      "search_intent": "Informational/Trend-based",
+      "target_audience": "Cafe and restaurant owners",
+      "content_angle": "Customer experience and industry standards",
+      "target_landing_page": "/solutions/qr-code-menus",
+      "primary_keyword": "qr code menu benefits",
+      "score_reason": "Positions the product as a necessary modern standard rather than a luxury."
+    },
+    {
+      "title": "From Print to Pixel: A Step-by-Step Guide to Digitizing Your Menu",
+      "search_intent": "Informational/How-to",
+      "target_audience": "Small business owners transitioning to digital",
+      "content_angle": "Onboarding and implementation",
+      "target_landing_page": "/get-started",
+      "primary_keyword": "create digital menu",
+      "score_reason": "Provides a clear, actionable path for prospects to adopt the platform."
+    },
+    {
+      "title": "How Dynamic Pricing Can Increase Your Restaurant's Profit Margins",
+      "search_intent": "Informational/Strategic",
+      "target_audience": "Restaurant owners focused on revenue management",
+      "content_angle": "Revenue optimization",
+      "target_landing_page": "/features/dynamic-pricing",
+      "primary_keyword": "real-time menu pricing",
+      "score_reason": "Connects software capabilities directly to business profitability."
+    },
+    {
+      "title": "Case Study: How The Bistro Reduced Printing Expenses by 70% in One Year",
+      "search_intent": "Commercial/Social Proof",
+      "target_audience": "Cost-conscious restaurant operators",
+      "content_angle": "Evidence-based success story",
+      "target_landing_page": "/case-studies",
+      "primary_keyword": "reduce restaurant printing costs",
+      "score_reason": "Provides tangible ROI data which is highly persuasive for B2B buyers."
+    },
+    {
+      "title": "Hygiene and Hospitality: Why Shared Menus Are Becoming Obsolete",
+      "search_intent": "Informational/Thought-leadership",
+      "target_audience": "Cafe managers and restaurant owners",
+      "content_angle": "Health and safety standards",
+      "target_landing_page": "/solutions/contactless-dining",
+      "primary_keyword": "contactless dining solutions",
+      "score_reason": "Addresses a specific pain point regarding hygiene and customer comfort."
+    },
+    {
+      "title": "7 Features Your Digital Menu Must Have to Drive More Orders",
+      "search_intent": "Informational/Educational",
+      "target_audience": "Tech-forward restaurant owners",
+      "content_angle": "Feature comparison and value proposition",
+      "target_landing_page": "/features",
+      "primary_keyword": "interactive digital menu features",
+      "score_reason": "Educates the user on why interactive menus outperform static PDFs."
+    },
+    {
+      "title": "Troubleshooting Common Issues When Switching to QR Code Menus",
+      "search_intent": "Informational/Problem-solving",
+      "target_audience": "Restaurant owners hesitant to switch",
+      "content_angle": "Overcoming technical objections",
+      "target_landing_page": "/support",
+      "primary_keyword": "qr code menu setup",
+      "score_reason": "Reduces friction for prospects who are worried about the technical transition."
+    },
+    {
+      "title": "How to Design a Digital Menu That Increases Upselling",
+      "search_intent": "Informational/How-to",
+      "target_audience": "Restaurant owners looking to increase average ticket size",
+      "content_angle": "Conversion optimization",
+      "target_landing_page": "/features/upselling-tools",
+      "primary_keyword": "digital menu upselling",
+      "score_reason": "Focuses on the revenue-generating potential of the software."
+    }
+  ],
+  "rejection_reasons": [],
+  "retry_count": 0,
+  "blog_briefs": null,
+  "final_briefs": null
+}
